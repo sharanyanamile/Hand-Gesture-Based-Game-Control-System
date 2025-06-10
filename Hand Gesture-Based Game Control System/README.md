@@ -1,6 +1,5 @@
 '''Hand Gesture-Based Game Control System🎮🖐️
 A simple yet exciting project that allows you to control game actions using hand gestures through your webcam!
-
 🔍 Overview
 This project uses OpenCV, imutils, and pynput to track hand movements and convert them into keyboard inputs for basic gaming controls:
 
